@@ -1,7 +1,10 @@
+<!---
 <img align="center" alt="Code like a girl" width="900" src="https://www.codelikeagirl.com/Assets/CLG/img/CLG_Logo.png">
 <img align="center" alt="Coding Gif" width="900" src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif">
+--->
+
 <h1 align="center">Hallo 👋 I'm Georgina Spieth</h1>
-<h3 align="center">Junior Fullstack Developer 👩🏻‍💻 Ruby on Rails, SQL, JavaScript, HTML, CSS 🚃 Master's in Digital       Entrepreneurship | Former Campaign Director
+<h3 align="center">Junior Fullstack Developer 👩🏻‍💻 Ruby on Rails, SQL, JavaScript, HTML, CSS
 </h3>
 <img src="https://bit.ly/3SDdqRE" alt="Coding Flower animated" align="right" width="290">
  
@@ -11,9 +14,9 @@ Junior full-stack developer who loves everything code! Passionate about programm
 </p>
 <p>
  <ul>
- <li> <span>🌱</span> Currently advancing on my JavaScript Skills #javascript30 challenge  </li>
- <li> <span>👩🏻‍💻</span> Final Project Web App <a href="https://www.petpatron.help/" target="_blank" >PetPatron
- </li>
+ <li> <span>🌱</span> Currently advancing on my JavaScript Skills #javascript30 challenge </li>
+ <li> <span>👩🏻‍💻</span> Final Project Web App <a href="https://www.petpatron.help/" target="_blank"> PetPatron </li>
+  <li> <span>🎨</span> Portfolio Page <a href="https://ggc0des.github.io/portfolio/" target="_blank"> here </li>
 </p>
 <h2 align="left">Connect with me:</h2>
 <p>
