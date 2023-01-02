@@ -1,17 +1,18 @@
 <img align="center" alt="Code like a girl" width="900" src="https://www.codelikeagirl.com/Assets/CLG/img/CLG_Logo.png">
 <img align="center" alt="Coding Gif" width="900" src="https://i.pinimg.com/originals/22/22/bf/2222bf4e61a9c909705972dc2e1ad26a.gif">
 <h1 align="center">Hallo 👋 I'm Georgina Spieth</h1>
-<h3 align="center">Former campaign director with an academic background in Digital Entrepreneurship learning to code 👩🏻‍💻</h3>
+<h3 align="center">Junior Fullstack Developer 👩🏻‍💻 Ruby on Rails, SQL, JavaScript, HTML, CSS 🚃 Master's in Digital       Entrepreneurship | Former Campaign Director
+</h3>
 <img src="https://bit.ly/3SDdqRE" alt="Coding Flower animated" align="right" width="290">
  
 <h2 align="left" >About me <span>🧚🏻‍♀️</span> </h2>
 <p>
-I have a master's degree in Digital Entrepreneurship (Distinction Honours) and have worked in business development, strategic partnerships and campaign management for several years. I (re-)discovered my passion for tech and coding whilst working on multiple website projects in my former role as campaign director at a newly founded NGO. In October 2022 I enrolled in a full-stack web dev bootcamp @LeWagon and am very excited to work as a developer in the future <span>✨💻🚀</span>
+Junior full-stack developer who loves everything code! Passionate about programming and collaborating across tech & design teams. I have worked on multiple website projects in my former role as campaign director and have a master's in Digital Entrepreneurship. Excited to learn from experienced developers and use my product focused mindset!<span>✨💻🚀</span>
 </p>
 <p>
  <ul>
- <li> <span>🌱</span> I’m currently learning at a Full-Stack Web Dev Bootcamp @LeWagon </li>
- <li> <span>👩🏻‍💻</span> All of my projects are available on <a href="https://kitt.lewagon.com/alumni/GGC0des" target="_blank" >My KITT Profile
+ <li> <span>🌱</span> Currently advancing on my JavaScript Skills #javascript30 challenge  </li>
+ <li> <span>👩🏻‍💻</span> Final Project Web App <a href="https://www.petpatron.help/" target="_blank" >PetPatron
  </li>
 </p>
 <h2 align="left">Connect with me:</h2>
