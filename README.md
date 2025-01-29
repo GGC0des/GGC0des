@@ -13,7 +13,7 @@ Junior Fullstack Developer aspiring to work in backend as a Java dev! Experience
 </p>
 <p>
  <ul>
- <li> <span>🌱</span> Currently advancing on my Java Skills solving Exercism challenges </li>
+ <li> <span>🌱</span> Currently advancing on my Java Skills  <a href="https://github.com/GGC0des/Exercism-Java?tab=readme-ov-file#readme" target="_blank"> my solutions to Exercism challenges </li>
  <li> <span>👩🏻‍💻</span> Web App Project (Ruby on Rails) <a href="https://www.petpatron.help/" target="_blank"> PetPatron </li>
   <li> <span>🎨</span> About Me Page <a href="https://ggc0des.github.io/portfolio/" target="_blank"> here </li>
 </p>
