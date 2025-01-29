@@ -9,13 +9,13 @@
 <img src="https://bit.ly/3SDdqRE" alt="Coding Flower animated" align="right" width="290">
  
 <p>
-Junior Fullstack Developer aspiring to work in backend as a Java dev! Experienced working on multiple website & database projects for several years from a strategic & project management point of view as a former campaign director and with a master's in Digital Entrepreneurship. My true passion is playing around with refactoring code to compare different approaches of applying logic. Excited to learn from experienced developers & use my product focused mindset! <span>👩🏻‍💻🚀✨</span>
+Junior Fullstack Developer aspiring to work in backend as a Java dev! Experienced working on multiple website & database projects for several years from a strategic & project management point of view as a former campaign director and with a master's in Digital Entrepreneurship. My true passion is playing around with refactoring code to compare different approaches of applying logic. Excited to learn from experienced developers & use my product focused mindset!
 </p>
 <p>
  <ul>
- <li> <span>🌱</span> Currently advancing on my Java Skills  <a href="https://github.com/GGC0des/Exercism-Java?tab=readme-ov-file#readme" target="_blank"> my solutions to Exercism challenges </li>
- <li> <span>👩🏻‍💻</span> Web App Project (Ruby on Rails) <a href="https://www.petpatron.help/" target="_blank"> PetPatron </li>
-  <li> <span>🎨</span> About Me Page <a href="https://ggc0des.github.io/portfolio/" target="_blank"> here </li>
+ <li> <span>☕️</span> Currently solving Java Challenges, find my soultions on <a href="https://github.com/GGC0des/Exercism-Java?tab=readme-ov-file#readme" target="_blank"> Github </a> or <a href="https://exercism.org/profiles/GGC0des" target="_blank"> my Exercism profile </li> 
+ <li> <span>🖥</span> Web App Project (Ruby on Rails) <a href="https://www.petpatron.help/" target="_blank"> PetPatron </li>
+  <li> <span>👩🏻‍💻</span> About Me Page <a href="https://ggc0des.github.io/portfolio/" target="_blank"> here </li>
 </p>
 <h2 align="left">Connect with me:</h2>
 <p> 
