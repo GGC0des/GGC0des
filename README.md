@@ -8,7 +8,7 @@
 <img src="Woman-Coding-Vector.PNG" alt="Woman Coding" align="right" width="290">
 
 <p>
-Junior Fullstack Developer apsiring to become an experienced backend developer! Several years of experience working on multiple website & database projects as a former campaign director & with an academic background in Digital Entrepreneurship (Master Degree with Honors). My true passion is refactoring code to compare different approaches of applying logic. Looking to work as a developer full-time.  
+Junior Fullstack Developer apsiring to become an experienced backend developer! Several years of experience working on multiple website & database projects as a former campaign director & with an academic background in Digital Entrepreneurship (master's degree with honors). My true passion is refactoring code to compare different approaches of applying logic. Looking to work as a developer full-time.  
 </p>
 
 <h3 align="left">🚀 Projects & Coding Challenges</h3>
