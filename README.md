@@ -20,9 +20,11 @@ Junior Fullstack Developer apsiring to become an experienced backend developer! 
 
 <h2 align="left">📌 Connect & Portfolio</h2>
 <p>
-   <a href="https://www.linkedin.com/in/georginaspieth/" target="_blank"><img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" alt="Link to Georgina's LinkedIn" height="70px"/> </a>
-   <a href="https://ggc0des.github.io/portfolio/" target="_blank"><img src="portfolio.png" alt="Link to Georgina's Porfolio" height="70px"/> </a>
-   <a href="https://www.petpatron.help/" target="_blank"><img src="PetPatron_Isolated.png" alt="Link to PetPatron WebApp" height="70px"/> </a>
+ 
+   <a href="https://www.linkedin.com/in/georginaspieth/" target="_blank"><img src="linkedin-logo.png" alt="Link to Georgina Spieth's LinkedIn Profile" border="10" height="70px"/></a>
+   <a href="https://www.petpatron.help/" target="_blank"><img src="PetPatron_Isolated.png" alt="Link to PetPatron WebApp" border="10" height="70px"/></a>
+   <a href="https://ggc0des.github.io/portfolio/" target="_blank"><img src="portfolio.png" alt="Link to Georgina's Porfolio" border="10" height="70px"/></a>
+   
 </p>
 
 <h2 align="left">🛠 Languages & Tools</h2>
