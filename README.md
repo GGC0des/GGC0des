@@ -1,24 +1,25 @@
-<!---
-
---->
+<!--- Special repository README.md for GitHub profile using only pure HTML --->
 
 <h1 align="center">Hallo 👋🏻 I'm Georgina Spieth</h1>
-<h3 align="center">Junior Fullstack Developer 👩🏻‍💻 Java | Ruby | SQL | JavaScript | HTML | CSS
+<h3 align="center">Junior Software Developer 👩🏻‍💻 Java | Ruby | SQL | JavaScript | HTML | CSS
 </h3>
 <img src="Woman-Coding-Vector.PNG" alt="Woman Coding" align="right" width="290">
 
 <p>
-Junior Fullstack Developer apsiring to become an experienced backend developer! Several years of experience working on multiple website & database projects as a former campaign director & with an academic background in Digital Entrepreneurship (master's degree with honors). My true passion is refactoring code to compare different approaches of applying logic. Looking to work as a developer full-time.  
+I'm a passionate Junior Fullstack Developer skilled in Java, Ruby on Rails & Web Development. With over 5 years of experience in campaign & project management and academic background in Digital Entrepreneurship (Master's Degree with Honors), I worked on meaningful website and database projects. Moving into programming allowed me to shift from being behind ideas to actively building them. I love turning concepts into real impactful applications, which inspired the web app PetPatron. My true passion lies in backend development. I love refactoring code to compare different approaches of applying logic and aspire to become an experienced backend developer! 
+
+Let’s collaborate and bring your vision to life! 
 </p>
 
-<h3 align="left">🚀 Projects & Coding Challenges</h3>
+<h3 align="left">🚀 Current Projects & Coding Challenges</h3>
  <ul>
- <li> <span>☕️</span> Currently solving Java Coding Challenges, my soultions on <a href="https://github.com/GGC0des/Exercism-Java?tab=readme-ov-file#readme" target="_blank"> Github </a> or <a href="https://exercism.org/profiles/GGC0des" target="_blank"> my Exercism profile </li>
- <li> <span>🖥</span> Web App <a href="https://www.petpatron.help/" target="_blank"> PetPatron </li>
-  <li> <span>👩🏻‍💻</span> About Me Page <a href="https://ggc0des.github.io/portfolio/" target="_blank"> here </li>
+ <li> <span>🌱</span>Currently learning <a href="https://www.codecademy.com/learn/paths/create-rest-apis-with-spring-and-java" target="_blank">Spring</a></li>
+   <li> <span>☕️</span> Java Coding Challenges: My soultions on <a href="https://github.com/GGC0des/Exercism-Java?tab=readme-ov-file#readme" target="_blank">Github</a> or <a href="https://exercism.org/profiles/GGC0des" target="_blank">Exercism</li>
+ <li> <span>🌐</span> Web App <a href="https://www.petpatron.help/" target="_blank">PetPatron</a> (Ruby on Rails, Active Record PostgreSQL)</li>
+  <li> <span>👋🏻</span> <a href="https://www.linkedin.com/messaging/compose/?recipient=georginaspieth" target="_blank" class="btn">Message Me</a> or check out my <a href="https://ggc0des.github.io/portfolio/" target="_blank">Portfolio</li>
 </ul>
 
-<h2 align="left">📌 Connect & Portfolio</h2>
+<h2 align="left">📌 Connect With Me & Portfolio</h2>
 <p>
  
    <a href="https://www.linkedin.com/in/georginaspieth/" target="_blank"><img src="linkedin-logo.png" alt="Link to Georgina Spieth's LinkedIn Profile" border="10" height="70px"/></a>
@@ -34,4 +35,4 @@ Junior Fullstack Developer apsiring to become an experienced backend developer! 
 
 <h2 align="left">🔥 GitHub Stats</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggc0des&" alt="ggc0des" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ggc0des&" alt="GitHub Readme Streak Stats. If failed to retrieve likely due to API issue" /></p>
